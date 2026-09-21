@@ -1,0 +1,53 @@
+    1  LS
+    2  ls
+    3  touch myfile.txt
+    4  clear
+    5  mkdir Lecture1
+    6  cd Lecture1/
+    7  touch myfile2.txt
+    8  cd ..
+    9  ls
+   10  pwd
+   11  clear
+   12  cd Lecture1/
+   13  ls /root
+   14  ls
+   15  rm myfile2.txt 
+   16  cd ..
+   17  ls
+   18  rmdir
+   19  rmdir --help
+   20  clear
+   21  rmdir Lecture1/
+   22  mkdir Lecture1
+   23  cd Lecture1/
+   24  touch myfile2.txt
+   25  ls /root /root/Lecture1/
+   26  CLEAR
+   27  clear
+   28  cd ..
+   29  cd Lecture1/
+   30  ls
+   31  rm myfile2.txt 
+   32  cd ..
+   33  pwd
+   34  ld
+   35  id
+   36  clear
+   37  ls
+   38  rmdir Lecture1/
+   39  ls
+   40  cat bench.py hello.c 
+   41  clear
+   42  mv /root/myfile.txt /root/rootfile.txt
+   43  ls
+   44  ls -1
+   45  clear
+   46  neofetch
+   47  cleare
+   48  clear
+   49  ls -1
+   50* export_file day2_lab_history.txt
+   51  history
+   52  clear
+   53  history > day2_lab_history.txt
